@@ -8,7 +8,7 @@ import javax.swing.*;
 import java.awt.*;
 
 
-@Script.Manifest(name = "Security Stronghold Fighter", description = "Kills Flesh Crawlers, Giant Spiders, Minotaurs, or Zombies at the Security Stronghold", properties="Author = Revngeofrobo")
+@Script.Manifest(name = "Security Stronghold Fighter", description = "Kills Flesh Crawlers, Giant Spiders, Minotaurs, or Zombies at the Security Stronghold", properties="Author = Revngeofrobo, Topic = 1348411")
 
 public class SecurityStrongholdFighter extends PollingScript<ClientContext> implements PaintListener {
 
